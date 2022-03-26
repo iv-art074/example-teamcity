@@ -8,7 +8,7 @@
 ![Screenshot 2022-03-26 153237](https://user-images.githubusercontent.com/87374285/160226305-9c1aca71-e391-4806-85fb-865739c36784.png)  
 
 ссылка на репо:  
-git@github.com:iv-art074/example-teamcity.git   
+https://github.com/iv-art074/example-teamcity.git  
 
 
 
