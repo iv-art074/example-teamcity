@@ -1,3 +1,6 @@
+Машины подготовлены  
+![Screenshot 2022-03-26 154037](https://user-images.githubusercontent.com/87374285/160226507-d8af2cf2-8030-4e93-9c08-b9a714a515b7.png)  
+
 1-7. Запустите сборку по master, убедитесь что всё прошло успешно, артефакт появился в nexus.  
 ![Screenshot 2022-03-26 143215](https://user-images.githubusercontent.com/87374285/160224785-b668f8d8-813b-4663-8663-08a7b7cff48e.png)  
 
